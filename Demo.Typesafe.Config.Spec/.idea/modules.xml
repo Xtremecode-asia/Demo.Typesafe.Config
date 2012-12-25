@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Demo.Typesafe.Config.Base/Demo.Typesafe.Config.Base.iml" filepath="$PROJECT_DIR$/../Demo.Typesafe.Config.Base/Demo.Typesafe.Config.Base.iml" group="Libraries" />
+      <module fileurl="file://$PROJECT_DIR$/../Demo.Typesafe.Config.Client.Console/Demo.Typesafe.Config.Client.Console.iml" filepath="$PROJECT_DIR$/../Demo.Typesafe.Config.Client.Console/Demo.Typesafe.Config.Client.Console.iml" group="Client" />
+      <module fileurl="file://$PROJECT_DIR$/../Demo.Typesafe.Config.Messages/Demo.Typesafe.Config.Messages.iml" filepath="$PROJECT_DIR$/../Demo.Typesafe.Config.Messages/Demo.Typesafe.Config.Messages.iml" group="Libraries" />
+      <module fileurl="file://$PROJECT_DIR$/../Demo.Typesafe.Config.Params/Demo.Typesafe.Config.Params.iml" filepath="$PROJECT_DIR$/../Demo.Typesafe.Config.Params/Demo.Typesafe.Config.Params.iml" group="Libraries" />
+      <module fileurl="file://$PROJECT_DIR$/Demo.Typesafe.Config.Spec.iml" filepath="$PROJECT_DIR$/Demo.Typesafe.Config.Spec.iml" group="Test" />
+    </modules>
+  </component>
+</project>
+
