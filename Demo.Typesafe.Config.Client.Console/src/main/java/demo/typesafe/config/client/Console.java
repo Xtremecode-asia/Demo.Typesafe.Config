@@ -1,7 +1,7 @@
 package demo.typesafe.config.client;
 
-import demo.typesafe.config.alpha.ParametersConfiguration;
-import demo.typesafe.config.bravo.MessagesProvider;
+import demo.typesafe.config.MessagesProvider;
+import demo.typesafe.config.ParametersConfiguration;
 
 /**
  * Created with IntelliJ IDEA.
@@ -18,6 +18,5 @@ public class Console {
         MessagesProvider messagesProvider = new MessagesProvider();
         String timeOutErrorMessage = messagesProvider.getTimeOutErrorMessage();
         System.out.println(String.format("Timeout Error Mesasge= '%s'", timeOutErrorMessage) );
-
     }
 }

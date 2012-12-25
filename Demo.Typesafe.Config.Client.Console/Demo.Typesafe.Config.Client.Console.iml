@@ -13,6 +13,7 @@
     <orderEntry type="module" module-name="Demo.Typesafe.Config.Messages" />
     <orderEntry type="library" name="com.typesafe:config:1.0.0" level="project" />
     <orderEntry type="module" module-name="Demo.Typesafe.Config.Params" />
+    <orderEntry type="module" module-name="Demo.Typesafe.Config.Base" />
   </component>
 </module>
 
